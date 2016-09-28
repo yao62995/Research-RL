@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #  -*- coding: utf-8 -*-
-# author: yaojian <yaojian@b.360.cn>
+# author: yao_62995 <yao_62995@163.com>
 
 import os
 import tensorflow as tf
